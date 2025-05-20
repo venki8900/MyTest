@@ -1,10 +1,7 @@
 1st commit
-<<<<<<< HEAD
 Good Morning
 Hi
 Hello
-=======
 Welcome 
 to 
 all
->>>>>>> 90764a9c4ecc6fc9ae73bb783a0a5df6feaecd72
