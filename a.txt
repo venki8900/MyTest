@@ -1,7 +1,5 @@
-1st commit
-Good Morning
-Hi
 Hello
-Welcome 
-to 
-all
+Hi
+Bye
+welcome
+Foramat
